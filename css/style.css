@@ -469,3 +469,13 @@ strong { font-weight: 500; color: var(--espresso); }
 .feature__media--alt{background-image:linear-gradient(150deg,rgba(43,37,33,.10),rgba(43,37,33,.40)),url('https://images.unsplash.com/photo-1527359443443-84a48aec73d2?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
 .ba__before{background-image:linear-gradient(160deg,rgba(0,0,0,.18),transparent 55%),url('https://images.unsplash.com/photo-1595797623546-5a85a990ca6c?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
 .ba__after{background-image:linear-gradient(160deg,rgba(0,0,0,.18),transparent 55%),url('https://images.unsplash.com/photo-1628340981113-fe1949fe5cc0?w=1200&q=70&auto=format&fit=crop');background-size:cover;background-position:center;}
+/* ===== Real photography: portfolio work-items (Aurora) ===== */
+.work-item{background-size:cover;background-position:center;}
+.ph-1{background-image:url('https://images.unsplash.com/photo-1602860739945-9a61573cd62d?w=1200&q=70&auto=format&fit=crop');}
+.ph-3{background-image:url('https://images.unsplash.com/photo-1505575571513-c6c366871baf?w=1200&q=70&auto=format&fit=crop');}
+.ph-5{background-image:url('https://images.unsplash.com/photo-1530297333184-26b347aaa2a2?w=1200&q=70&auto=format&fit=crop');}
+.work-item[data-cat="outdoor"]{background-image:url('https://images.unsplash.com/photo-1602860739945-9a61573cd62d?w=1200&q=70&auto=format&fit=crop');}
+.work-item[data-cat="hardscape"]{background-image:url('https://images.unsplash.com/photo-1505575571513-c6c366871baf?w=1200&q=70&auto=format&fit=crop');}
+.work-item[data-cat="design"]{background-image:url('https://images.unsplash.com/photo-1530297333184-26b347aaa2a2?w=1200&q=70&auto=format&fit=crop');}
+.work-item[data-cat="plantings"]{background-image:url('https://images.unsplash.com/photo-1628482283044-e5cc2f238de1?w=1200&q=70&auto=format&fit=crop');}
+.work-item[data-cat="lighting"]{background-image:url('https://images.unsplash.com/photo-1527359443443-84a48aec73d2?w=1200&q=70&auto=format&fit=crop');}
